@@ -10,7 +10,7 @@
       "icon_name": "fitness",
       "emoji": "💪",
       "background_color": "#EDE8DF",
-      "description": "9 cards · Cell repair, amino acids, daily targets & Indian sources",
+      "description": "10 cards · Cell repair, amino acids, daily targets & Indian sources",
       "card_count": 10,
       "order": 1,
       "cards": [
@@ -764,7 +764,7 @@
       "icon_name": "nutrition",
       "emoji": "🌾",
       "background_color": "#EDE6D6",
-      "description": "12 cards · GI index, millet myth, sugar truth & smart swaps",
+      "description": "13 cards · GI index, millet myth, sugar truth & smart swaps",
       "card_count": 13,
       "order": 2,
       "cards": [
@@ -1788,7 +1788,7 @@
       "icon_name": "water",
       "emoji": "🧈",
       "background_color": "#E8E0D0",
-      "description": "13 cards · Myths busted, trans fat, cholesterol & best cooking oils",
+      "description": "14 cards · Myths busted, trans fat, cholesterol & best cooking oils",
       "card_count": 14,
       "order": 3,
       "cards": [

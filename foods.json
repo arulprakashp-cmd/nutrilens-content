@@ -1,0 +1,2169 @@
+{
+  "schema_version": 1,
+  "content_version": 1,
+  "foods": [
+    {
+      "id": "f0",
+      "name": "Roti / Chapati",
+      "category": "grain",
+      "serving": "1 pc (30g)",
+      "cal": 72,
+      "protein": 2.5,
+      "carbs": 15,
+      "fat": 0.4
+    },
+    {
+      "id": "f1",
+      "name": "Paratha (plain)",
+      "category": "grain",
+      "serving": "1 pc (45g)",
+      "cal": 150,
+      "protein": 3.5,
+      "carbs": 18,
+      "fat": 7
+    },
+    {
+      "id": "f2",
+      "name": "Paratha (aloo)",
+      "category": "grain",
+      "serving": "1 pc (60g)",
+      "cal": 180,
+      "protein": 3,
+      "carbs": 22,
+      "fat": 9
+    },
+    {
+      "id": "f3",
+      "name": "Naan",
+      "category": "grain",
+      "serving": "1 pc (60g)",
+      "cal": 170,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 4
+    },
+    {
+      "id": "f4",
+      "name": "Puri",
+      "category": "grain",
+      "serving": "1 pc (25g)",
+      "cal": 100,
+      "protein": 1.5,
+      "carbs": 10,
+      "fat": 6
+    },
+    {
+      "id": "f5",
+      "name": "White Rice (cooked)",
+      "category": "grain",
+      "serving": "1 cup (150g)",
+      "cal": 195,
+      "protein": 4,
+      "carbs": 45,
+      "fat": 0.4
+    },
+    {
+      "id": "f6",
+      "name": "Brown Rice (cooked)",
+      "category": "grain",
+      "serving": "1 cup (150g)",
+      "cal": 170,
+      "protein": 4,
+      "carbs": 36,
+      "fat": 1.5
+    },
+    {
+      "id": "f7",
+      "name": "Dosa (plain)",
+      "category": "grain",
+      "serving": "1 pc (50g)",
+      "cal": 120,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 4
+    },
+    {
+      "id": "f8",
+      "name": "Masala Dosa",
+      "category": "grain",
+      "serving": "1 pc (100g)",
+      "cal": 210,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 9
+    },
+    {
+      "id": "f9",
+      "name": "Idli",
+      "category": "grain",
+      "serving": "2 pcs (60g)",
+      "cal": 80,
+      "protein": 2.5,
+      "carbs": 16,
+      "fat": 0.5
+    },
+    {
+      "id": "f10",
+      "name": "Upma",
+      "category": "grain",
+      "serving": "1 bowl (150g)",
+      "cal": 180,
+      "protein": 4,
+      "carbs": 24,
+      "fat": 7
+    },
+    {
+      "id": "f11",
+      "name": "Poha",
+      "category": "grain",
+      "serving": "1 bowl (150g)",
+      "cal": 160,
+      "protein": 3,
+      "carbs": 25,
+      "fat": 5
+    },
+    {
+      "id": "f12",
+      "name": "Oats (cooked)",
+      "category": "grain",
+      "serving": "1 bowl (150g)",
+      "cal": 110,
+      "protein": 4,
+      "carbs": 19,
+      "fat": 2
+    },
+    {
+      "id": "f13",
+      "name": "Bread (white)",
+      "category": "grain",
+      "serving": "2 slices (60g)",
+      "cal": 150,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 2
+    },
+    {
+      "id": "f14",
+      "name": "Bread (brown/wheat)",
+      "category": "grain",
+      "serving": "2 slices (60g)",
+      "cal": 140,
+      "protein": 5,
+      "carbs": 24,
+      "fat": 2
+    },
+    {
+      "id": "f15",
+      "name": "Ragi Roti",
+      "category": "grain",
+      "serving": "1 pc (40g)",
+      "cal": 95,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 1
+    },
+    {
+      "id": "f16",
+      "name": "Appam",
+      "category": "grain",
+      "serving": "1 pc (50g)",
+      "cal": 90,
+      "protein": 1.5,
+      "carbs": 17,
+      "fat": 1.5
+    },
+    {
+      "id": "f17",
+      "name": "Uttapam",
+      "category": "grain",
+      "serving": "1 pc (80g)",
+      "cal": 150,
+      "protein": 4,
+      "carbs": 22,
+      "fat": 5
+    },
+    {
+      "id": "f18",
+      "name": "Bhakri (jowar)",
+      "category": "grain",
+      "serving": "1 pc (40g)",
+      "cal": 105,
+      "protein": 3,
+      "carbs": 22,
+      "fat": 0.5
+    },
+    {
+      "id": "f19",
+      "name": "Toor Dal",
+      "category": "dal",
+      "serving": "1 katori (150g)",
+      "cal": 130,
+      "protein": 9,
+      "carbs": 18,
+      "fat": 1
+    },
+    {
+      "id": "f20",
+      "name": "Moong Dal",
+      "category": "dal",
+      "serving": "1 katori (150g)",
+      "cal": 120,
+      "protein": 8,
+      "carbs": 17,
+      "fat": 0.5
+    },
+    {
+      "id": "f21",
+      "name": "Masoor Dal",
+      "category": "dal",
+      "serving": "1 katori (150g)",
+      "cal": 125,
+      "protein": 9,
+      "carbs": 18,
+      "fat": 0.5
+    },
+    {
+      "id": "f22",
+      "name": "Chana Dal",
+      "category": "dal",
+      "serving": "1 katori (150g)",
+      "cal": 140,
+      "protein": 9,
+      "carbs": 20,
+      "fat": 2
+    },
+    {
+      "id": "f23",
+      "name": "Rajma Curry",
+      "category": "dal",
+      "serving": "1 katori (150g)",
+      "cal": 160,
+      "protein": 8,
+      "carbs": 22,
+      "fat": 3
+    },
+    {
+      "id": "f24",
+      "name": "Chole / Chana",
+      "category": "dal",
+      "serving": "1 katori (150g)",
+      "cal": 180,
+      "protein": 9,
+      "carbs": 24,
+      "fat": 4
+    },
+    {
+      "id": "f25",
+      "name": "Sambhar",
+      "category": "dal",
+      "serving": "1 katori (150g)",
+      "cal": 100,
+      "protein": 5,
+      "carbs": 14,
+      "fat": 2
+    },
+    {
+      "id": "f26",
+      "name": "Rasam",
+      "category": "dal",
+      "serving": "1 katori (150g)",
+      "cal": 40,
+      "protein": 1,
+      "carbs": 6,
+      "fat": 1
+    },
+    {
+      "id": "f27",
+      "name": "Dal Fry",
+      "category": "dal",
+      "serving": "1 katori (150g)",
+      "cal": 150,
+      "protein": 8,
+      "carbs": 16,
+      "fat": 5
+    },
+    {
+      "id": "f28",
+      "name": "Dal Tadka",
+      "category": "dal",
+      "serving": "1 katori (150g)",
+      "cal": 145,
+      "protein": 8,
+      "carbs": 17,
+      "fat": 4
+    },
+    {
+      "id": "f29",
+      "name": "Aloo Sabzi",
+      "category": "veg",
+      "serving": "1 katori (100g)",
+      "cal": 110,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 5
+    },
+    {
+      "id": "f30",
+      "name": "Palak Paneer",
+      "category": "veg",
+      "serving": "1 katori (150g)",
+      "cal": 190,
+      "protein": 10,
+      "carbs": 8,
+      "fat": 14
+    },
+    {
+      "id": "f31",
+      "name": "Bhindi Sabzi",
+      "category": "veg",
+      "serving": "1 katori (100g)",
+      "cal": 80,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 4
+    },
+    {
+      "id": "f32",
+      "name": "Gobi Sabzi",
+      "category": "veg",
+      "serving": "1 katori (100g)",
+      "cal": 75,
+      "protein": 2,
+      "carbs": 7,
+      "fat": 4
+    },
+    {
+      "id": "f33",
+      "name": "Baingan Bharta",
+      "category": "veg",
+      "serving": "1 katori (100g)",
+      "cal": 90,
+      "protein": 2,
+      "carbs": 8,
+      "fat": 5
+    },
+    {
+      "id": "f34",
+      "name": "Mixed Veg Curry",
+      "category": "veg",
+      "serving": "1 katori (150g)",
+      "cal": 100,
+      "protein": 3,
+      "carbs": 12,
+      "fat": 4
+    },
+    {
+      "id": "f35",
+      "name": "Matar Paneer",
+      "category": "veg",
+      "serving": "1 katori (150g)",
+      "cal": 200,
+      "protein": 10,
+      "carbs": 10,
+      "fat": 13
+    },
+    {
+      "id": "f36",
+      "name": "Aloo Gobi",
+      "category": "veg",
+      "serving": "1 katori (150g)",
+      "cal": 120,
+      "protein": 3,
+      "carbs": 14,
+      "fat": 5
+    },
+    {
+      "id": "f37",
+      "name": "Methi Sabzi",
+      "category": "veg",
+      "serving": "1 katori (100g)",
+      "cal": 60,
+      "protein": 3,
+      "carbs": 5,
+      "fat": 3
+    },
+    {
+      "id": "f38",
+      "name": "Lauki Sabzi",
+      "category": "veg",
+      "serving": "1 katori (100g)",
+      "cal": 55,
+      "protein": 1,
+      "carbs": 7,
+      "fat": 2
+    },
+    {
+      "id": "f39",
+      "name": "Palak Sabzi",
+      "category": "veg",
+      "serving": "1 katori (100g)",
+      "cal": 65,
+      "protein": 3,
+      "carbs": 5,
+      "fat": 3
+    },
+    {
+      "id": "f40",
+      "name": "Tinda Sabzi",
+      "category": "veg",
+      "serving": "1 katori (100g)",
+      "cal": 60,
+      "protein": 1.5,
+      "carbs": 7,
+      "fat": 2.5
+    },
+    {
+      "id": "f41",
+      "name": "Paneer Butter Masala",
+      "category": "veg",
+      "serving": "1 katori (150g)",
+      "cal": 280,
+      "protein": 12,
+      "carbs": 10,
+      "fat": 22
+    },
+    {
+      "id": "f42",
+      "name": "Kadhi",
+      "category": "veg",
+      "serving": "1 katori (150g)",
+      "cal": 90,
+      "protein": 3,
+      "carbs": 8,
+      "fat": 5
+    },
+    {
+      "id": "f43",
+      "name": "Chicken Curry",
+      "category": "nonveg",
+      "serving": "1 katori (150g)",
+      "cal": 210,
+      "protein": 22,
+      "carbs": 5,
+      "fat": 11
+    },
+    {
+      "id": "f44",
+      "name": "Butter Chicken",
+      "category": "nonveg",
+      "serving": "1 katori (150g)",
+      "cal": 280,
+      "protein": 20,
+      "carbs": 8,
+      "fat": 18
+    },
+    {
+      "id": "f45",
+      "name": "Egg Curry",
+      "category": "nonveg",
+      "serving": "2 eggs (150g)",
+      "cal": 220,
+      "protein": 14,
+      "carbs": 6,
+      "fat": 15
+    },
+    {
+      "id": "f46",
+      "name": "Fish Curry",
+      "category": "nonveg",
+      "serving": "1 pc (100g)",
+      "cal": 150,
+      "protein": 18,
+      "carbs": 4,
+      "fat": 7
+    },
+    {
+      "id": "f47",
+      "name": "Chicken Biryani",
+      "category": "nonveg",
+      "serving": "1 plate (250g)",
+      "cal": 400,
+      "protein": 18,
+      "carbs": 50,
+      "fat": 14
+    },
+    {
+      "id": "f48",
+      "name": "Mutton Curry",
+      "category": "nonveg",
+      "serving": "1 katori (150g)",
+      "cal": 260,
+      "protein": 20,
+      "carbs": 4,
+      "fat": 18
+    },
+    {
+      "id": "f49",
+      "name": "Tandoori Chicken",
+      "category": "nonveg",
+      "serving": "1 leg pc (100g)",
+      "cal": 160,
+      "protein": 22,
+      "carbs": 2,
+      "fat": 7
+    },
+    {
+      "id": "f50",
+      "name": "Keema",
+      "category": "nonveg",
+      "serving": "1 katori (100g)",
+      "cal": 200,
+      "protein": 16,
+      "carbs": 4,
+      "fat": 13
+    },
+    {
+      "id": "f51",
+      "name": "Fish Fry",
+      "category": "nonveg",
+      "serving": "1 pc (80g)",
+      "cal": 160,
+      "protein": 15,
+      "carbs": 6,
+      "fat": 8
+    },
+    {
+      "id": "f52",
+      "name": "Boiled Egg",
+      "category": "egg",
+      "serving": "1 whole",
+      "cal": 70,
+      "protein": 6,
+      "carbs": 0.5,
+      "fat": 5
+    },
+    {
+      "id": "f53",
+      "name": "Egg Omelette",
+      "category": "egg",
+      "serving": "2 eggs",
+      "cal": 170,
+      "protein": 12,
+      "carbs": 1,
+      "fat": 13
+    },
+    {
+      "id": "f54",
+      "name": "Scrambled Eggs",
+      "category": "egg",
+      "serving": "2 eggs",
+      "cal": 180,
+      "protein": 12,
+      "carbs": 2,
+      "fat": 14
+    },
+    {
+      "id": "f55",
+      "name": "Egg Bhurji",
+      "category": "egg",
+      "serving": "2 eggs",
+      "cal": 190,
+      "protein": 12,
+      "carbs": 3,
+      "fat": 14
+    },
+    {
+      "id": "f56",
+      "name": "Milk (whole)",
+      "category": "dairy",
+      "serving": "1 glass (200ml)",
+      "cal": 120,
+      "protein": 6,
+      "carbs": 9,
+      "fat": 6
+    },
+    {
+      "id": "f57",
+      "name": "Milk (toned)",
+      "category": "dairy",
+      "serving": "1 glass (200ml)",
+      "cal": 100,
+      "protein": 6,
+      "carbs": 9,
+      "fat": 3
+    },
+    {
+      "id": "f58",
+      "name": "Curd / Yogurt",
+      "category": "dairy",
+      "serving": "1 katori (100g)",
+      "cal": 60,
+      "protein": 4,
+      "carbs": 5,
+      "fat": 3
+    },
+    {
+      "id": "f59",
+      "name": "Buttermilk / Chaas",
+      "category": "dairy",
+      "serving": "1 glass (200ml)",
+      "cal": 35,
+      "protein": 2,
+      "carbs": 4,
+      "fat": 1
+    },
+    {
+      "id": "f60",
+      "name": "Paneer",
+      "category": "dairy",
+      "serving": "50g piece",
+      "cal": 130,
+      "protein": 9,
+      "carbs": 1,
+      "fat": 10
+    },
+    {
+      "id": "f61",
+      "name": "Lassi (sweet)",
+      "category": "dairy",
+      "serving": "1 glass (200ml)",
+      "cal": 150,
+      "protein": 5,
+      "carbs": 22,
+      "fat": 4
+    },
+    {
+      "id": "f62",
+      "name": "Lassi (salted)",
+      "category": "dairy",
+      "serving": "1 glass (200ml)",
+      "cal": 80,
+      "protein": 4,
+      "carbs": 6,
+      "fat": 4
+    },
+    {
+      "id": "f63",
+      "name": "Cheese Slice",
+      "category": "dairy",
+      "serving": "1 slice (20g)",
+      "cal": 60,
+      "protein": 4,
+      "carbs": 0.5,
+      "fat": 5
+    },
+    {
+      "id": "f64",
+      "name": "Banana",
+      "category": "fruit",
+      "serving": "1 medium",
+      "cal": 90,
+      "protein": 1,
+      "carbs": 23,
+      "fat": 0.3
+    },
+    {
+      "id": "f65",
+      "name": "Apple",
+      "category": "fruit",
+      "serving": "1 medium",
+      "cal": 72,
+      "protein": 0.4,
+      "carbs": 19,
+      "fat": 0.2
+    },
+    {
+      "id": "f66",
+      "name": "Mango",
+      "category": "fruit",
+      "serving": "1 cup (150g)",
+      "cal": 100,
+      "protein": 1,
+      "carbs": 25,
+      "fat": 0.5
+    },
+    {
+      "id": "f67",
+      "name": "Papaya",
+      "category": "fruit",
+      "serving": "1 cup (140g)",
+      "cal": 55,
+      "protein": 0.5,
+      "carbs": 14,
+      "fat": 0.3
+    },
+    {
+      "id": "f68",
+      "name": "Guava",
+      "category": "fruit",
+      "serving": "1 medium",
+      "cal": 37,
+      "protein": 1.4,
+      "carbs": 8,
+      "fat": 0.5
+    },
+    {
+      "id": "f69",
+      "name": "Orange",
+      "category": "fruit",
+      "serving": "1 medium",
+      "cal": 62,
+      "protein": 1.2,
+      "carbs": 15,
+      "fat": 0.2
+    },
+    {
+      "id": "f70",
+      "name": "Watermelon",
+      "category": "fruit",
+      "serving": "1 cup (150g)",
+      "cal": 46,
+      "protein": 0.9,
+      "carbs": 12,
+      "fat": 0.2
+    },
+    {
+      "id": "f71",
+      "name": "Pomegranate",
+      "category": "fruit",
+      "serving": "1/2 cup seeds",
+      "cal": 72,
+      "protein": 1,
+      "carbs": 17,
+      "fat": 1
+    },
+    {
+      "id": "f72",
+      "name": "Grapes",
+      "category": "fruit",
+      "serving": "1 cup (150g)",
+      "cal": 104,
+      "protein": 1,
+      "carbs": 27,
+      "fat": 0.2
+    },
+    {
+      "id": "f73",
+      "name": "Chikoo (Sapota)",
+      "category": "fruit",
+      "serving": "1 medium",
+      "cal": 80,
+      "protein": 0.5,
+      "carbs": 20,
+      "fat": 1
+    },
+    {
+      "id": "f74",
+      "name": "Samosa",
+      "category": "snack",
+      "serving": "1 pc (60g)",
+      "cal": 180,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10
+    },
+    {
+      "id": "f75",
+      "name": "Pakora / Bhaji",
+      "category": "snack",
+      "serving": "4 pcs (60g)",
+      "cal": 170,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 11
+    },
+    {
+      "id": "f76",
+      "name": "Vada Pav",
+      "category": "snack",
+      "serving": "1 pc",
+      "cal": 290,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 14
+    },
+    {
+      "id": "f77",
+      "name": "Pav Bhaji",
+      "category": "snack",
+      "serving": "1 plate",
+      "cal": 350,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 16
+    },
+    {
+      "id": "f78",
+      "name": "Dhokla",
+      "category": "snack",
+      "serving": "3 pcs (80g)",
+      "cal": 120,
+      "protein": 5,
+      "carbs": 18,
+      "fat": 3
+    },
+    {
+      "id": "f79",
+      "name": "Kachori",
+      "category": "snack",
+      "serving": "1 pc (50g)",
+      "cal": 180,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 11
+    },
+    {
+      "id": "f80",
+      "name": "Roasted Chana",
+      "category": "snack",
+      "serving": "1 handful (30g)",
+      "cal": 110,
+      "protein": 7,
+      "carbs": 18,
+      "fat": 1.5
+    },
+    {
+      "id": "f81",
+      "name": "Peanuts (roasted)",
+      "category": "snack",
+      "serving": "1 handful (30g)",
+      "cal": 170,
+      "protein": 8,
+      "carbs": 5,
+      "fat": 14
+    },
+    {
+      "id": "f82",
+      "name": "Almonds",
+      "category": "snack",
+      "serving": "10 pcs (15g)",
+      "cal": 87,
+      "protein": 3,
+      "carbs": 3,
+      "fat": 7.5
+    },
+    {
+      "id": "f83",
+      "name": "Cashews",
+      "category": "snack",
+      "serving": "10 pcs (15g)",
+      "cal": 82,
+      "protein": 2.7,
+      "carbs": 4.5,
+      "fat": 6.5
+    },
+    {
+      "id": "f84",
+      "name": "Walnuts",
+      "category": "snack",
+      "serving": "5 halves (15g)",
+      "cal": 98,
+      "protein": 2.3,
+      "carbs": 2,
+      "fat": 9.8
+    },
+    {
+      "id": "f85",
+      "name": "Makhana (roasted)",
+      "category": "snack",
+      "serving": "1 cup (20g)",
+      "cal": 75,
+      "protein": 3,
+      "carbs": 13,
+      "fat": 0.4
+    },
+    {
+      "id": "f86",
+      "name": "Biscuit (Marie)",
+      "category": "snack",
+      "serving": "4 pcs (28g)",
+      "cal": 120,
+      "protein": 2,
+      "carbs": 20,
+      "fat": 3.5
+    },
+    {
+      "id": "f87",
+      "name": "Namkeen / Mixture",
+      "category": "snack",
+      "serving": "1 handful (30g)",
+      "cal": 150,
+      "protein": 3,
+      "carbs": 15,
+      "fat": 9
+    },
+    {
+      "id": "f88",
+      "name": "Khakhra",
+      "category": "snack",
+      "serving": "2 pcs (30g)",
+      "cal": 110,
+      "protein": 3,
+      "carbs": 17,
+      "fat": 3
+    },
+    {
+      "id": "f89",
+      "name": "Sprouts Salad",
+      "category": "snack",
+      "serving": "1 bowl (100g)",
+      "cal": 80,
+      "protein": 6,
+      "carbs": 10,
+      "fat": 1
+    },
+    {
+      "id": "f90",
+      "name": "Tea (with milk & sugar)",
+      "category": "bev",
+      "serving": "1 cup (150ml)",
+      "cal": 50,
+      "protein": 1,
+      "carbs": 8,
+      "fat": 1.5
+    },
+    {
+      "id": "f91",
+      "name": "Tea (black, no sugar)",
+      "category": "bev",
+      "serving": "1 cup (150ml)",
+      "cal": 2,
+      "protein": 0,
+      "carbs": 0.5,
+      "fat": 0
+    },
+    {
+      "id": "f92",
+      "name": "Coffee (with milk)",
+      "category": "bev",
+      "serving": "1 cup (150ml)",
+      "cal": 45,
+      "protein": 1.5,
+      "carbs": 6,
+      "fat": 1.5
+    },
+    {
+      "id": "f93",
+      "name": "Coffee (black)",
+      "category": "bev",
+      "serving": "1 cup (150ml)",
+      "cal": 5,
+      "protein": 0.3,
+      "carbs": 1,
+      "fat": 0
+    },
+    {
+      "id": "f94",
+      "name": "Coconut Water",
+      "category": "bev",
+      "serving": "1 glass (200ml)",
+      "cal": 40,
+      "protein": 0.5,
+      "carbs": 9,
+      "fat": 0.2
+    },
+    {
+      "id": "f95",
+      "name": "Nimbu Pani",
+      "category": "bev",
+      "serving": "1 glass (200ml)",
+      "cal": 30,
+      "protein": 0,
+      "carbs": 8,
+      "fat": 0
+    },
+    {
+      "id": "f96",
+      "name": "Mango Shake",
+      "category": "bev",
+      "serving": "1 glass (200ml)",
+      "cal": 180,
+      "protein": 4,
+      "carbs": 30,
+      "fat": 5
+    },
+    {
+      "id": "f97",
+      "name": "Banana Shake",
+      "category": "bev",
+      "serving": "1 glass (200ml)",
+      "cal": 160,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 4
+    },
+    {
+      "id": "f98",
+      "name": "Green Juice",
+      "category": "bev",
+      "serving": "1 glass (200ml)",
+      "cal": 50,
+      "protein": 1,
+      "carbs": 11,
+      "fat": 0.3
+    },
+    {
+      "id": "f99",
+      "name": "Veg Biryani",
+      "category": "rice",
+      "serving": "1 plate (200g)",
+      "cal": 280,
+      "protein": 5,
+      "carbs": 42,
+      "fat": 9
+    },
+    {
+      "id": "f100",
+      "name": "Veg Pulao",
+      "category": "rice",
+      "serving": "1 plate (200g)",
+      "cal": 240,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 7
+    },
+    {
+      "id": "f101",
+      "name": "Lemon Rice",
+      "category": "rice",
+      "serving": "1 plate (200g)",
+      "cal": 230,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 6
+    },
+    {
+      "id": "f102",
+      "name": "Curd Rice",
+      "category": "rice",
+      "serving": "1 plate (200g)",
+      "cal": 200,
+      "protein": 5,
+      "carbs": 35,
+      "fat": 4
+    },
+    {
+      "id": "f103",
+      "name": "Khichdi",
+      "category": "rice",
+      "serving": "1 bowl (200g)",
+      "cal": 180,
+      "protein": 6,
+      "carbs": 30,
+      "fat": 3
+    },
+    {
+      "id": "f104",
+      "name": "Jeera Rice",
+      "category": "rice",
+      "serving": "1 plate (200g)",
+      "cal": 210,
+      "protein": 4,
+      "carbs": 40,
+      "fat": 4
+    },
+    {
+      "id": "f105",
+      "name": "Gulab Jamun",
+      "category": "sweet",
+      "serving": "2 pcs (60g)",
+      "cal": 200,
+      "protein": 2,
+      "carbs": 30,
+      "fat": 8
+    },
+    {
+      "id": "f106",
+      "name": "Rasgulla",
+      "category": "sweet",
+      "serving": "2 pcs (60g)",
+      "cal": 140,
+      "protein": 3,
+      "carbs": 26,
+      "fat": 2
+    },
+    {
+      "id": "f107",
+      "name": "Ladoo (besan)",
+      "category": "sweet",
+      "serving": "1 pc (30g)",
+      "cal": 140,
+      "protein": 2,
+      "carbs": 15,
+      "fat": 8
+    },
+    {
+      "id": "f108",
+      "name": "Jalebi",
+      "category": "sweet",
+      "serving": "2 pcs (40g)",
+      "cal": 160,
+      "protein": 1,
+      "carbs": 28,
+      "fat": 5
+    },
+    {
+      "id": "f109",
+      "name": "Halwa (suji)",
+      "category": "sweet",
+      "serving": "1 katori (80g)",
+      "cal": 200,
+      "protein": 3,
+      "carbs": 28,
+      "fat": 9
+    },
+    {
+      "id": "f110",
+      "name": "Kheer",
+      "category": "sweet",
+      "serving": "1 katori (100g)",
+      "cal": 160,
+      "protein": 4,
+      "carbs": 22,
+      "fat": 6
+    },
+    {
+      "id": "f111",
+      "name": "Barfi",
+      "category": "sweet",
+      "serving": "1 pc (30g)",
+      "cal": 130,
+      "protein": 3,
+      "carbs": 16,
+      "fat": 6
+    },
+    {
+      "id": "f112",
+      "name": "Pongal (ven)",
+      "category": "south",
+      "serving": "1 bowl (150g)",
+      "cal": 180,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 5
+    },
+    {
+      "id": "f113",
+      "name": "Pesarattu",
+      "category": "south",
+      "serving": "1 pc (80g)",
+      "cal": 110,
+      "protein": 5,
+      "carbs": 14,
+      "fat": 3
+    },
+    {
+      "id": "f114",
+      "name": "Puttu",
+      "category": "south",
+      "serving": "1 serving (100g)",
+      "cal": 170,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 4
+    },
+    {
+      "id": "f115",
+      "name": "Avial",
+      "category": "south",
+      "serving": "1 katori (100g)",
+      "cal": 90,
+      "protein": 2,
+      "carbs": 6,
+      "fat": 6
+    },
+    {
+      "id": "f116",
+      "name": "Kootu",
+      "category": "south",
+      "serving": "1 katori (100g)",
+      "cal": 80,
+      "protein": 4,
+      "carbs": 8,
+      "fat": 3
+    },
+    {
+      "id": "f117",
+      "name": "Chole Bhature",
+      "category": "north",
+      "serving": "1 plate",
+      "cal": 450,
+      "protein": 12,
+      "carbs": 55,
+      "fat": 20
+    },
+    {
+      "id": "f118",
+      "name": "Rajma Chawal",
+      "category": "north",
+      "serving": "1 plate",
+      "cal": 380,
+      "protein": 14,
+      "carbs": 60,
+      "fat": 8
+    },
+    {
+      "id": "f119",
+      "name": "Dal Makhani",
+      "category": "north",
+      "serving": "1 katori (150g)",
+      "cal": 180,
+      "protein": 8,
+      "carbs": 14,
+      "fat": 10
+    },
+    {
+      "id": "f120",
+      "name": "Aloo Tikki",
+      "category": "north",
+      "serving": "2 pcs (80g)",
+      "cal": 160,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 7
+    },
+    {
+      "id": "f121",
+      "name": "Paneer Tikka",
+      "category": "north",
+      "serving": "6 pcs (100g)",
+      "cal": 220,
+      "protein": 14,
+      "carbs": 6,
+      "fat": 16
+    },
+    {
+      "id": "f122",
+      "name": "Maggi Noodles",
+      "category": "misc",
+      "serving": "1 pack (70g)",
+      "cal": 310,
+      "protein": 7,
+      "carbs": 42,
+      "fat": 13
+    },
+    {
+      "id": "f123",
+      "name": "Sandwich (veg)",
+      "category": "misc",
+      "serving": "1 pc",
+      "cal": 200,
+      "protein": 5,
+      "carbs": 25,
+      "fat": 9
+    },
+    {
+      "id": "f124",
+      "name": "Wrap / Roll",
+      "category": "misc",
+      "serving": "1 pc",
+      "cal": 250,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 12
+    },
+    {
+      "id": "f125",
+      "name": "Salad (green)",
+      "category": "misc",
+      "serving": "1 bowl (100g)",
+      "cal": 25,
+      "protein": 1.5,
+      "carbs": 4,
+      "fat": 0.3
+    },
+    {
+      "id": "f126",
+      "name": "Raita",
+      "category": "misc",
+      "serving": "1 katori (100g)",
+      "cal": 50,
+      "protein": 3,
+      "carbs": 4,
+      "fat": 2.5
+    },
+    {
+      "id": "f127",
+      "name": "Pickle",
+      "category": "misc",
+      "serving": "1 tsp (10g)",
+      "cal": 15,
+      "protein": 0.2,
+      "carbs": 1,
+      "fat": 1
+    },
+    {
+      "id": "f128",
+      "name": "Ghee",
+      "category": "misc",
+      "serving": "1 tsp (5g)",
+      "cal": 45,
+      "protein": 0,
+      "carbs": 0,
+      "fat": 5
+    },
+    {
+      "id": "f129",
+      "name": "Sugar",
+      "category": "misc",
+      "serving": "1 tsp (5g)",
+      "cal": 20,
+      "protein": 0,
+      "carbs": 5,
+      "fat": 0
+    },
+    {
+      "id": "f130",
+      "name": "Honey",
+      "category": "misc",
+      "serving": "1 tsp (7g)",
+      "cal": 21,
+      "protein": 0,
+      "carbs": 6,
+      "fat": 0
+    },
+    {
+      "id": "f131",
+      "name": "Veg Burger",
+      "category": "burger",
+      "serving": "1 pc (150g)",
+      "cal": 320,
+      "protein": 10,
+      "carbs": 42,
+      "fat": 12
+    },
+    {
+      "id": "f132",
+      "name": "Cheese Burger (veg)",
+      "category": "burger",
+      "serving": "1 pc (165g)",
+      "cal": 380,
+      "protein": 12,
+      "carbs": 44,
+      "fat": 16
+    },
+    {
+      "id": "f133",
+      "name": "Chicken Burger",
+      "category": "burger",
+      "serving": "1 pc (170g)",
+      "cal": 430,
+      "protein": 22,
+      "carbs": 42,
+      "fat": 20
+    },
+    {
+      "id": "f134",
+      "name": "Crispy Chicken Burger",
+      "category": "burger",
+      "serving": "1 pc (200g)",
+      "cal": 500,
+      "protein": 24,
+      "carbs": 50,
+      "fat": 24
+    },
+    {
+      "id": "f135",
+      "name": "Double Patty Burger",
+      "category": "burger",
+      "serving": "1 pc (230g)",
+      "cal": 620,
+      "protein": 32,
+      "carbs": 50,
+      "fat": 32
+    },
+    {
+      "id": "f136",
+      "name": "Paneer Burger",
+      "category": "burger",
+      "serving": "1 pc (170g)",
+      "cal": 420,
+      "protein": 14,
+      "carbs": 44,
+      "fat": 20
+    },
+    {
+      "id": "f137",
+      "name": "Aloo Tikki Burger",
+      "category": "burger",
+      "serving": "1 pc (150g)",
+      "cal": 310,
+      "protein": 7,
+      "carbs": 48,
+      "fat": 10
+    },
+    {
+      "id": "f138",
+      "name": "Fish Burger",
+      "category": "burger",
+      "serving": "1 pc (170g)",
+      "cal": 400,
+      "protein": 18,
+      "carbs": 42,
+      "fat": 18
+    },
+    {
+      "id": "f139",
+      "name": "Veg Sandwich",
+      "category": "sandwich",
+      "serving": "1 pc (180g)",
+      "cal": 240,
+      "protein": 7,
+      "carbs": 34,
+      "fat": 8
+    },
+    {
+      "id": "f140",
+      "name": "Grilled Veg Sandwich",
+      "category": "sandwich",
+      "serving": "1 pc (200g)",
+      "cal": 320,
+      "protein": 10,
+      "carbs": 38,
+      "fat": 14
+    },
+    {
+      "id": "f141",
+      "name": "Cheese Sandwich",
+      "category": "sandwich",
+      "serving": "1 pc (180g)",
+      "cal": 350,
+      "protein": 12,
+      "carbs": 34,
+      "fat": 18
+    },
+    {
+      "id": "f142",
+      "name": "Club Sandwich",
+      "category": "sandwich",
+      "serving": "1 pc (250g)",
+      "cal": 480,
+      "protein": 22,
+      "carbs": 46,
+      "fat": 22
+    },
+    {
+      "id": "f143",
+      "name": "Paneer Sandwich",
+      "category": "sandwich",
+      "serving": "1 pc (200g)",
+      "cal": 360,
+      "protein": 14,
+      "carbs": 38,
+      "fat": 16
+    },
+    {
+      "id": "f144",
+      "name": "Chicken Sandwich",
+      "category": "sandwich",
+      "serving": "1 pc (200g)",
+      "cal": 380,
+      "protein": 24,
+      "carbs": 36,
+      "fat": 14
+    },
+    {
+      "id": "f145",
+      "name": "Egg Sandwich",
+      "category": "sandwich",
+      "serving": "1 pc (180g)",
+      "cal": 290,
+      "protein": 13,
+      "carbs": 30,
+      "fat": 12
+    },
+    {
+      "id": "f146",
+      "name": "Tuna Sandwich",
+      "category": "sandwich",
+      "serving": "1 pc (200g)",
+      "cal": 340,
+      "protein": 22,
+      "carbs": 34,
+      "fat": 12
+    },
+    {
+      "id": "f147",
+      "name": "Bombay Sandwich (masala)",
+      "category": "sandwich",
+      "serving": "1 pc (200g)",
+      "cal": 300,
+      "protein": 9,
+      "carbs": 40,
+      "fat": 11
+    },
+    {
+      "id": "f148",
+      "name": "Pizza - Margherita (slice)",
+      "category": "pizza",
+      "serving": "1 slice (90g)",
+      "cal": 230,
+      "protein": 9,
+      "carbs": 28,
+      "fat": 9
+    },
+    {
+      "id": "f149",
+      "name": "Pizza - Farmhouse (slice)",
+      "category": "pizza",
+      "serving": "1 slice (100g)",
+      "cal": 250,
+      "protein": 10,
+      "carbs": 30,
+      "fat": 10
+    },
+    {
+      "id": "f150",
+      "name": "Pizza - Veg Supreme (slice)",
+      "category": "pizza",
+      "serving": "1 slice (110g)",
+      "cal": 280,
+      "protein": 11,
+      "carbs": 30,
+      "fat": 13
+    },
+    {
+      "id": "f151",
+      "name": "Pizza - Peppy Paneer (slice)",
+      "category": "pizza",
+      "serving": "1 slice (110g)",
+      "cal": 290,
+      "protein": 13,
+      "carbs": 30,
+      "fat": 13
+    },
+    {
+      "id": "f152",
+      "name": "Pizza - Chicken (slice)",
+      "category": "pizza",
+      "serving": "1 slice (110g)",
+      "cal": 300,
+      "protein": 16,
+      "carbs": 28,
+      "fat": 14
+    },
+    {
+      "id": "f153",
+      "name": "Pizza - Pepperoni (slice)",
+      "category": "pizza",
+      "serving": "1 slice (100g)",
+      "cal": 310,
+      "protein": 14,
+      "carbs": 26,
+      "fat": 16
+    },
+    {
+      "id": "f154",
+      "name": "Personal Pan Pizza (veg)",
+      "category": "pizza",
+      "serving": "1 pc (~7in)",
+      "cal": 720,
+      "protein": 28,
+      "carbs": 90,
+      "fat": 28
+    },
+    {
+      "id": "f155",
+      "name": "Personal Pan Pizza (chicken)",
+      "category": "pizza",
+      "serving": "1 pc (~7in)",
+      "cal": 820,
+      "protein": 40,
+      "carbs": 86,
+      "fat": 34
+    },
+    {
+      "id": "f156",
+      "name": "Garlic Bread (stuffed)",
+      "category": "pizza",
+      "serving": "1 serving (120g)",
+      "cal": 360,
+      "protein": 10,
+      "carbs": 42,
+      "fat": 16
+    },
+    {
+      "id": "f157",
+      "name": "Cheese Garlic Bread",
+      "category": "pizza",
+      "serving": "1 serving (100g)",
+      "cal": 320,
+      "protein": 11,
+      "carbs": 36,
+      "fat": 14
+    },
+    {
+      "id": "f158",
+      "name": "Pancake (plain)",
+      "category": "breakfast",
+      "serving": "2 pcs (120g)",
+      "cal": 280,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 9
+    },
+    {
+      "id": "f159",
+      "name": "Pancake (chocolate chip)",
+      "category": "breakfast",
+      "serving": "2 pcs (140g)",
+      "cal": 360,
+      "protein": 9,
+      "carbs": 52,
+      "fat": 14
+    },
+    {
+      "id": "f160",
+      "name": "Pancake (blueberry)",
+      "category": "breakfast",
+      "serving": "2 pcs (140g)",
+      "cal": 320,
+      "protein": 8,
+      "carbs": 50,
+      "fat": 10
+    },
+    {
+      "id": "f161",
+      "name": "Pancake with Maple Syrup",
+      "category": "breakfast",
+      "serving": "2 pcs + syrup",
+      "cal": 430,
+      "protein": 8,
+      "carbs": 72,
+      "fat": 12
+    },
+    {
+      "id": "f162",
+      "name": "Waffle (plain)",
+      "category": "breakfast",
+      "serving": "1 pc (90g)",
+      "cal": 290,
+      "protein": 7,
+      "carbs": 38,
+      "fat": 12
+    },
+    {
+      "id": "f163",
+      "name": "Belgian Waffle",
+      "category": "breakfast",
+      "serving": "1 pc (120g)",
+      "cal": 410,
+      "protein": 9,
+      "carbs": 50,
+      "fat": 20
+    },
+    {
+      "id": "f164",
+      "name": "Chocolate Waffle",
+      "category": "breakfast",
+      "serving": "1 pc (130g)",
+      "cal": 480,
+      "protein": 9,
+      "carbs": 58,
+      "fat": 24
+    },
+    {
+      "id": "f165",
+      "name": "Crepe (plain)",
+      "category": "breakfast",
+      "serving": "1 pc (70g)",
+      "cal": 120,
+      "protein": 4,
+      "carbs": 14,
+      "fat": 5
+    },
+    {
+      "id": "f166",
+      "name": "Crepe (Nutella/chocolate)",
+      "category": "breakfast",
+      "serving": "1 pc (110g)",
+      "cal": 320,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 16
+    },
+    {
+      "id": "f167",
+      "name": "Crepe (savoury veg)",
+      "category": "breakfast",
+      "serving": "1 pc (150g)",
+      "cal": 260,
+      "protein": 8,
+      "carbs": 28,
+      "fat": 12
+    },
+    {
+      "id": "f168",
+      "name": "Vanilla Ice Cream",
+      "category": "dessert",
+      "serving": "1 scoop (65g)",
+      "cal": 135,
+      "protein": 2,
+      "carbs": 16,
+      "fat": 7
+    },
+    {
+      "id": "f169",
+      "name": "Chocolate Ice Cream",
+      "category": "dessert",
+      "serving": "1 scoop (65g)",
+      "cal": 145,
+      "protein": 2.5,
+      "carbs": 18,
+      "fat": 7.5
+    },
+    {
+      "id": "f170",
+      "name": "Strawberry Ice Cream",
+      "category": "dessert",
+      "serving": "1 scoop (65g)",
+      "cal": 130,
+      "protein": 2,
+      "carbs": 17,
+      "fat": 6
+    },
+    {
+      "id": "f171",
+      "name": "Butterscotch Ice Cream",
+      "category": "dessert",
+      "serving": "1 scoop (65g)",
+      "cal": 150,
+      "protein": 2,
+      "carbs": 19,
+      "fat": 7.5
+    },
+    {
+      "id": "f172",
+      "name": "Kulfi",
+      "category": "dessert",
+      "serving": "1 pc (60g)",
+      "cal": 160,
+      "protein": 3,
+      "carbs": 18,
+      "fat": 8
+    },
+    {
+      "id": "f173",
+      "name": "Cornetto / Cone",
+      "category": "dessert",
+      "serving": "1 pc (90g)",
+      "cal": 230,
+      "protein": 3,
+      "carbs": 30,
+      "fat": 11
+    },
+    {
+      "id": "f174",
+      "name": "Magnum Bar",
+      "category": "dessert",
+      "serving": "1 pc (100g)",
+      "cal": 270,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 16
+    },
+    {
+      "id": "f175",
+      "name": "Ice Cream Sundae",
+      "category": "dessert",
+      "serving": "1 cup (200g)",
+      "cal": 380,
+      "protein": 5,
+      "carbs": 48,
+      "fat": 18
+    },
+    {
+      "id": "f176",
+      "name": "Chocolate Cake",
+      "category": "dessert",
+      "serving": "1 slice (80g)",
+      "cal": 320,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 16
+    },
+    {
+      "id": "f177",
+      "name": "Black Forest Cake",
+      "category": "dessert",
+      "serving": "1 slice (100g)",
+      "cal": 340,
+      "protein": 4,
+      "carbs": 44,
+      "fat": 17
+    },
+    {
+      "id": "f178",
+      "name": "Cheesecake",
+      "category": "dessert",
+      "serving": "1 slice (100g)",
+      "cal": 320,
+      "protein": 6,
+      "carbs": 26,
+      "fat": 22
+    },
+    {
+      "id": "f179",
+      "name": "Brownie",
+      "category": "dessert",
+      "serving": "1 pc (60g)",
+      "cal": 250,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 13
+    },
+    {
+      "id": "f180",
+      "name": "Donut (plain)",
+      "category": "dessert",
+      "serving": "1 pc (50g)",
+      "cal": 200,
+      "protein": 3,
+      "carbs": 24,
+      "fat": 11
+    },
+    {
+      "id": "f181",
+      "name": "Donut (glazed)",
+      "category": "dessert",
+      "serving": "1 pc (60g)",
+      "cal": 260,
+      "protein": 3,
+      "carbs": 32,
+      "fat": 14
+    },
+    {
+      "id": "f182",
+      "name": "Muffin (chocolate)",
+      "category": "dessert",
+      "serving": "1 pc (80g)",
+      "cal": 330,
+      "protein": 5,
+      "carbs": 44,
+      "fat": 16
+    },
+    {
+      "id": "f183",
+      "name": "Muffin (blueberry)",
+      "category": "dessert",
+      "serving": "1 pc (80g)",
+      "cal": 290,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 12
+    },
+    {
+      "id": "f184",
+      "name": "Croissant (plain)",
+      "category": "bread",
+      "serving": "1 pc (60g)",
+      "cal": 230,
+      "protein": 5,
+      "carbs": 26,
+      "fat": 12
+    },
+    {
+      "id": "f185",
+      "name": "Croissant (chocolate)",
+      "category": "bread",
+      "serving": "1 pc (80g)",
+      "cal": 330,
+      "protein": 6,
+      "carbs": 36,
+      "fat": 18
+    },
+    {
+      "id": "f186",
+      "name": "Pastry",
+      "category": "dessert",
+      "serving": "1 pc (100g)",
+      "cal": 310,
+      "protein": 4,
+      "carbs": 38,
+      "fat": 16
+    },
+    {
+      "id": "f187",
+      "name": "Tiramisu",
+      "category": "dessert",
+      "serving": "1 serving (100g)",
+      "cal": 290,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 18
+    },
+    {
+      "id": "f188",
+      "name": "Bread (regular/white)",
+      "category": "bread",
+      "serving": "2 slices (60g)",
+      "cal": 150,
+      "protein": 4,
+      "carbs": 28,
+      "fat": 2
+    },
+    {
+      "id": "f189",
+      "name": "Bread (whole wheat)",
+      "category": "bread",
+      "serving": "2 slices (60g)",
+      "cal": 140,
+      "protein": 6,
+      "carbs": 24,
+      "fat": 2
+    },
+    {
+      "id": "f190",
+      "name": "Bread (multigrain)",
+      "category": "bread",
+      "serving": "2 slices (60g)",
+      "cal": 160,
+      "protein": 7,
+      "carbs": 26,
+      "fat": 3
+    },
+    {
+      "id": "f191",
+      "name": "Bread (sourdough)",
+      "category": "bread",
+      "serving": "2 slices (70g)",
+      "cal": 180,
+      "protein": 6,
+      "carbs": 34,
+      "fat": 1.5
+    },
+    {
+      "id": "f192",
+      "name": "Baguette",
+      "category": "bread",
+      "serving": "1/4 pc (70g)",
+      "cal": 190,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 1
+    },
+    {
+      "id": "f193",
+      "name": "Ciabatta",
+      "category": "bread",
+      "serving": "1 pc (80g)",
+      "cal": 220,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 2
+    },
+    {
+      "id": "f194",
+      "name": "Focaccia",
+      "category": "bread",
+      "serving": "1 pc (70g)",
+      "cal": 210,
+      "protein": 5,
+      "carbs": 32,
+      "fat": 8
+    },
+    {
+      "id": "f195",
+      "name": "Bagel (plain)",
+      "category": "bread",
+      "serving": "1 pc (100g)",
+      "cal": 260,
+      "protein": 10,
+      "carbs": 52,
+      "fat": 1.5
+    },
+    {
+      "id": "f196",
+      "name": "Bagel (sesame/everything)",
+      "category": "bread",
+      "serving": "1 pc (100g)",
+      "cal": 280,
+      "protein": 10,
+      "carbs": 53,
+      "fat": 3
+    },
+    {
+      "id": "f197",
+      "name": "Pita Bread",
+      "category": "bread",
+      "serving": "1 pc (60g)",
+      "cal": 160,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 1
+    },
+    {
+      "id": "f198",
+      "name": "Burger Bun",
+      "category": "bread",
+      "serving": "1 pc (50g)",
+      "cal": 140,
+      "protein": 4,
+      "carbs": 27,
+      "fat": 2
+    },
+    {
+      "id": "f199",
+      "name": "Hot Dog Bun",
+      "category": "bread",
+      "serving": "1 pc (55g)",
+      "cal": 150,
+      "protein": 5,
+      "carbs": 28,
+      "fat": 2.5
+    },
+    {
+      "id": "f200",
+      "name": "Dinner Roll",
+      "category": "bread",
+      "serving": "1 pc (40g)",
+      "cal": 120,
+      "protein": 4,
+      "carbs": 21,
+      "fat": 2
+    },
+    {
+      "id": "f201",
+      "name": "English Muffin",
+      "category": "bread",
+      "serving": "1 pc (60g)",
+      "cal": 130,
+      "protein": 5,
+      "carbs": 26,
+      "fat": 1
+    },
+    {
+      "id": "f202",
+      "name": "Brioche",
+      "category": "bread",
+      "serving": "1 slice (50g)",
+      "cal": 180,
+      "protein": 5,
+      "carbs": 22,
+      "fat": 8
+    },
+    {
+      "id": "f203",
+      "name": "French Fries (regular)",
+      "category": "fastfood",
+      "serving": "1 medium (100g)",
+      "cal": 320,
+      "protein": 4,
+      "carbs": 42,
+      "fat": 16
+    },
+    {
+      "id": "f204",
+      "name": "French Fries (large)",
+      "category": "fastfood",
+      "serving": "1 large (150g)",
+      "cal": 480,
+      "protein": 6,
+      "carbs": 63,
+      "fat": 24
+    },
+    {
+      "id": "f205",
+      "name": "Onion Rings",
+      "category": "fastfood",
+      "serving": "6 pcs (80g)",
+      "cal": 270,
+      "protein": 4,
+      "carbs": 32,
+      "fat": 14
+    },
+    {
+      "id": "f206",
+      "name": "Chicken Nuggets",
+      "category": "fastfood",
+      "serving": "6 pcs (95g)",
+      "cal": 270,
+      "protein": 14,
+      "carbs": 16,
+      "fat": 17
+    },
+    {
+      "id": "f207",
+      "name": "Chicken Wings (fried)",
+      "category": "fastfood",
+      "serving": "4 pcs (120g)",
+      "cal": 340,
+      "protein": 26,
+      "carbs": 8,
+      "fat": 22
+    },
+    {
+      "id": "f208",
+      "name": "Mozzarella Sticks",
+      "category": "fastfood",
+      "serving": "4 pcs (100g)",
+      "cal": 300,
+      "protein": 12,
+      "carbs": 26,
+      "fat": 16
+    },
+    {
+      "id": "f209",
+      "name": "Fish Fingers",
+      "category": "fastfood",
+      "serving": "4 pcs (100g)",
+      "cal": 240,
+      "protein": 14,
+      "carbs": 22,
+      "fat": 10
+    },
+    {
+      "id": "f210",
+      "name": "Hash Browns",
+      "category": "fastfood",
+      "serving": "1 pc (55g)",
+      "cal": 150,
+      "protein": 1.5,
+      "carbs": 15,
+      "fat": 9
+    },
+    {
+      "id": "f211",
+      "name": "Spring Roll (veg)",
+      "category": "fastfood",
+      "serving": "2 pcs (80g)",
+      "cal": 180,
+      "protein": 3,
+      "carbs": 20,
+      "fat": 10
+    },
+    {
+      "id": "f212",
+      "name": "Momos (steamed veg)",
+      "category": "fastfood",
+      "serving": "6 pcs (150g)",
+      "cal": 220,
+      "protein": 6,
+      "carbs": 38,
+      "fat": 4
+    },
+    {
+      "id": "f213",
+      "name": "Momos (fried)",
+      "category": "fastfood",
+      "serving": "6 pcs (160g)",
+      "cal": 340,
+      "protein": 7,
+      "carbs": 40,
+      "fat": 16
+    }
+  ],
+  "categories": {
+    "grain": "🌾 Grains",
+    "dal": "🫘 Dal",
+    "veg": "🥬 Vegetables",
+    "nonveg": "🍗 Non-Veg",
+    "egg": "🥚 Eggs",
+    "dairy": "🥛 Dairy",
+    "fruit": "🍎 Fruits",
+    "snack": "🥜 Snacks",
+    "bev": "☕ Beverages",
+    "rice": "🍚 Rice Dishes",
+    "sweet": "🍬 Sweets",
+    "south": "🫓 South Indian",
+    "north": "🫓 North Indian",
+    "misc": "🍽️ Misc",
+    "burger": "🍔 Burgers",
+    "sandwich": "🥪 Sandwiches",
+    "pizza": "🍕 Pizza",
+    "breakfast": "🥞 Pancakes & Waffles",
+    "dessert": "🍰 Desserts & Ice Cream",
+    "bread": "🥖 Breads",
+    "fastfood": "🍟 Fast-food Sides"
+  }
+}

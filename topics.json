@@ -350,7 +350,7 @@
                 "label": "Plant Protein",
                 "badge": "Combine for Full Profile",
                 "foods": [
-                  "🫘 Dal/Lentils",
+                  "🫘 Lentils",
                   "🌰 Soya Chunks",
                   "🥜 Peanuts",
                   "🫛 Chickpeas",
@@ -436,7 +436,7 @@
                   },
                   {
                     "emoji": "🫘",
-                    "name": "Lentils / Dal (cooked)",
+                    "name": "Lentils (cooked)",
                     "protein": 9,
                     "note": "Incomplete  -  pair with rice for full profile"
                   }
@@ -460,13 +460,13 @@
                   },
                   {
                     "emoji": "🥜",
-                    "name": "Cashews (Kaju)",
+                    "name": "Cashews",
                     "protein": 18,
                     "note": "Good protein but higher in carbs than other nuts"
                   },
                   {
                     "emoji": "🪨",
-                    "name": "Walnuts (Akhrot)",
+                    "name": "Walnuts",
                     "protein": 15,
                     "note": "Lower protein but excellent omega-3 & brain health"
                   }
@@ -526,11 +526,11 @@
                     "protein": 31
                   },
                   {
-                    "food": "🫘 1 katori dal",
+                    "food": "🫘 1 cup Lentils",
                     "protein": 9
                   },
                   {
-                    "food": "🍚 1 cup cooked rice + sabzi",
+                    "food": "🍚 1 cup Cooked Rice + Vegetables",
                     "protein": 4,
                     "muted": true
                   }
@@ -557,7 +557,7 @@
                 "total": "~18g protein",
                 "items": [
                   {
-                    "food": "🧆 100g paneer sabzi",
+                    "food": "🧆 100g paneer",
                     "protein": 18
                   },
                   {
